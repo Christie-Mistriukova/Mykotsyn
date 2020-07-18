@@ -660,7 +660,14 @@ a {
   .topMain .topMain-info h1 {
     font-size: 32px;
     line-height: 32px;
+    max-width: 280px;
+    margin: 0 auto;
   }
+  .topMain .topMain-info .topMainInfo-list {
+    max-width: 280px;
+    margin: 0 auto;
+  }
+
   .topMain .topMain-info h1 small {
     font-size: 26px;
     line-height: 26px;
