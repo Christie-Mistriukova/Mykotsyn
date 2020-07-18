@@ -85,7 +85,7 @@ a {
 
 .topMain .topMain-info .mobileImg {
   display: none;
-  margin-top: 30px;
+  margin: 30px 0;
 }
 
 .topMain .topMain-info .mobileImg img {
