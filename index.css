@@ -673,10 +673,10 @@ a {
     line-height: 26px;
   }
   .topMain .topMain-info h1 small span.withOrangeLine:after {
-    width: 97px;
+    display: none;
   }
   .topMain .topMain-info h1 small span.withGreenLine:after{
-    width: 105px;
+    display: none;
   }
   .topMain-info .topMainInfo-list .listWrapper .list .listText {
     font-size: 14px;
