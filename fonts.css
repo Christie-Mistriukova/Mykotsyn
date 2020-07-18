@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Roboto";
+  src: url('./font/Roboto.woff2') format('woff2'),
+  url('./font/Roboto.ttf')  format('truetype'),
+  url('./font/Roboto.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "RobotoRegular";
+  src : url("./font/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "RobotoBlack";
+  src: url('./font/Robotoblack.woff2') format('woff2'),
+  url('./font/Robotoblack.ttf')  format('truetype'),
+  url('./font/Robotoblack.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoBold";
+  src: url('./font/Robotobold.woff2') format('woff2'),
+  url('./font/Robotobold.ttf')  format('truetype'),
+  url('./font/Robotobold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoLight";
+  src: url('./font/Robotolight.woff2') format('woff2'),
+  url('./font/Robotolight.ttf')  format('truetype'),
+  url('./font/Robotolight.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoMedium";
+  src: url('./font/Robotomedium.woff2') format('woff2'),
+  url('./font/Robotomedium.ttf')  format('truetype'),
+  url('./font/Robotomedium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoThin";
+  src: url('./font/Robotothin.woff2') format('woff2'),
+  url('./font/Robotothin.ttf')  format('truetype'),
+  url('./font/Robotothin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
